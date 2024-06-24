@@ -1,5 +1,5 @@
-The chat application can be accessed with two seperate webpages in the local host system.
-npm install
+The chat application can be accessed with two seperate webpages in the local host system. \n
+npm install /n
 node server.js
 http://localhost:5000/chat.html
 
